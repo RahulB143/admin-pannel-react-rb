@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RahulB143/admin-pannel-react-rb.git/static/css/main.7bf2d711.css",
+    "main.js": "/RahulB143/admin-pannel-react-rb.git/static/js/main.4106366c.js",
+    "index.html": "/RahulB143/admin-pannel-react-rb.git/index.html",
+    "main.7bf2d711.css.map": "/RahulB143/admin-pannel-react-rb.git/static/css/main.7bf2d711.css.map",
+    "main.4106366c.js.map": "/RahulB143/admin-pannel-react-rb.git/static/js/main.4106366c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bf2d711.css",
+    "static/js/main.4106366c.js"
+  ]
+}
